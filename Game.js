@@ -89,6 +89,7 @@ if (vraag1 == "ja") {
 					alert ("Ik zei toch dat je moest antwoorden met noorden of zuiden!");
 					alert ("omdat je niet luisterd begin je maar weer opnieuw.");
 					document.write ("Herstart de pagina om opnieuw te proberen.");
+
 				}
 			}
 			else if (vraag4 < "20") {
